@@ -1,4 +1,5 @@
-# Data-Analysis-Portfolio
+# Data Analysis Portfolio
+
 ## About Me
 Hi, I'm Elijah! This is a collection of personal Data Analytics and Machine Learning projects utilizing tools such as SQL, Python, Excel, and BI Tools such as Tableau. I'm a graduate from the University of Central Florida eager to apply my foundation of data analytics to help businesses make more confident and meaningful decisions as an entry-level Data Analyst.
 
