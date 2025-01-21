@@ -70,7 +70,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ## Machine Learning Projects
 
 ### End-to-End ML OPS
-**Code:** [``]()
+**Code:** [``](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/ML%20OPS)
 
 **Goal:** .
 
@@ -83,7 +83,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### NBA Match Predictor
-**Code:** [``]()
+**Code:** [``](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Match%20Predictor)
 
 **Goal:** .
 
@@ -96,7 +96,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### NBA Rookie of the Year Predictor
-**Code:** [``]()
+**Code:** [``](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Rookie%20of%20the%20Year%20Predictor)
 
 **Goal:** .
 
