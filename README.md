@@ -5,31 +5,31 @@ Hi, I'm Elijah! This is a collection of personal Data Analytics and Machine Lear
 During my time at UCF, I worked to gain strong experience with Python and MySQL, specifically for machine learning applications and simple querying. Post-graduation, I have been honing my skills in PostgreSQL, Tableau, and PowerBI while reinforcing my knowledge on fundamentals such as data cleaning and statistical analysis.
 
 ## Table of Contents
-- [About Me]()
+- [About Me](#about-me)
   
-- [Data Analysis Projects]()
+- [Data Analysis Projects](#data-analytics-projects)
   
-  - [Fraud Detection]()
+  - [Fraud Detection](#fraud-detection)
     
-  - [Sales Dashboard]()
+  - [Sales Dashboard](#sales-dashboard)
     
-  - [Profitable Apps]()
+  - [Profitable Apps](#profitable-apps)
     
-- [Machine Learning Projects]()
+- [Machine Learning Projects](#machine-learning-projects)
   
-  - [End-to-End ML OPS]()
+  - [ML OPS](#ml-ops)
     
-  - [NBA Match Predictor]()
+  - [NBA Match Predictor](#nba-match-predictor)
     
-  - [NBA Rookie of the Year Predictor]()
+  - [NBA Rookie of the Year Predictor](#nba-rookie-of-the-year-predictor)
     
-- [Contacts]()
+- [Contacts](#contacts)
 
 
 ## Data Analysis Projects
 
 ### Fraud Detection
-**Code:** [``]()
+**Code:** [``](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Fraud%20Detection)
 
 **Goal:** .
 
@@ -42,7 +42,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### Sales Dashboard
-**Code:** [``]()
+**Code:** [``](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Sales%20Dashboard)
 
 **Goal:** .
 
@@ -55,7 +55,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### Profitable Apps
-**Code:** [``]()
+**Code:** [``](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
 
 **Goal:** .
 
@@ -69,7 +69,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 ## Machine Learning Projects
 
-### End-to-End ML OPS
+### ML OPS
 **Code:** [``](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/ML%20OPS)
 
 **Goal:** .
