@@ -30,7 +30,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ## Data Analysis Projects
 
 ### Fraud Detection
-**Code:** [``](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Fraud%20Detection)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Fraud%20Detection)
 
 **Goal:** .
 
@@ -43,7 +43,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### Sales Dashboard
-**Code:** [``](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Sales%20Dashboard)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Sales%20Dashboard)
 
 **Goal:** .
 
@@ -56,7 +56,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### Profitable Apps
-**Code:** [``](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
 
 **Goal:** .
 
@@ -71,7 +71,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ## Machine Learning Projects
 
 ### ML OPS
-**Code:** [``](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/ML%20OPS)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/ML%20OPS)
 
 **Goal:** .
 
@@ -84,7 +84,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### NBA Match Predictor
-**Code:** [``](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Match%20Predictor)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Match%20Predictor)
 
 **Goal:** .
 
@@ -97,7 +97,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Results:** .
 
 ### NBA Rookie of the Year Predictor
-**Code:** [``](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Rookie%20of%20the%20Year%20Predictor)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Rookie%20of%20the%20Year%20Predictor)
 
 **Goal:** .
 
