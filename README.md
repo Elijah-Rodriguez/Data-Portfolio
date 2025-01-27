@@ -38,22 +38,22 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, .
 
 **Results:** .
 
-### Sales Dashboard
+### Plant Co. Dashboard
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Sales%20Dashboard)
 
-**Goal:** .
+**Goal:** To get a dynamic overview of Plant Co. performance.
 
-**Description:** .
+**Description:** This project is focused on creating a dynamic dashboard to analyze global performance for Plant Co. over the 2022-2024 period.  
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data cleaning, data analysis, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** PostgreSQL, Microsoft PowerBI.
 
-**Results:** .
+**Results:** Canada needs extra attention as they hold the highest dropoff of YTD sales, specifically with landscape product sales declining.
 
 ### Profitable Apps
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
