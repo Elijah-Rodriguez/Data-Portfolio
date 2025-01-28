@@ -40,7 +40,6 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Technology:** Python, .
 
-**Results:** .
 
 ### Plant Co. Dashboard
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Sales%20Dashboard)
@@ -53,7 +52,6 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Technology:** PostgreSQL, Microsoft PowerBI.
 
-**Results:** Canada needs extra attention as they hold the highest dropoff of YTD sales, specifically with landscape product sales declining.
 
 ### Profitable Apps
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
@@ -66,7 +64,6 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** .
 
 ## Machine Learning Projects
 
@@ -81,7 +78,6 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** .
 
 ### NBA Match Predictor
 **Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Match%20Predictor)
@@ -94,7 +90,6 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** .
 
 ### NBA Rookie of the Year Predictor
 **Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Rookie%20of%20the%20Year%20Predictor)
@@ -107,7 +102,6 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** .
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/elijah-rodriguez-b04b77214/)
