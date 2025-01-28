@@ -32,7 +32,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ### Fraud Detection
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Fraud%20Detection)
 
-**Goal:** .
+**Goal:** Monitoring how a fraud detection model has been doing over time and figuring out why it's not working as it should using Python.
 
 **Description:** .
 
