@@ -12,7 +12,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
   
   - [Fraud Detection](#fraud-detection)
     
-  - [Plant Co. {Performance Dashboard](#plant-co-performance-dashboard)
+  - [Plant Co. Performance Dashboard](#plant-co-performance-dashboard)
     
   - [Taste of the World Cafe Order Analysis](#taste-of-the-world-cafe-order-analysis)
     
