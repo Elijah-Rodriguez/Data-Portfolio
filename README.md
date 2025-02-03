@@ -42,7 +42,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 
 ### Plant Co. Performance Dashboard
-**Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Sales%20Dashboard)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Plant%20Co%20Performance%20Dashboard)
 
 **Goal:** To get a dynamic overview of Plant Co. performance.
 
