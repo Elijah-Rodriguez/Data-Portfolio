@@ -12,9 +12,9 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
   
   - [Fraud Detection](#fraud-detection)
     
-  - [Sales Dashboard](#sales-dashboard)
+  - [Plant Co. Sales Dashboard](#sales-dashboard)
     
-  - [Profitable Apps](#profitable-apps)
+  - [Taste of the World Cafe Order Analysis](#taste-of-the-world-order-analysis)
     
 - [Machine Learning Projects](#machine-learning-projects)
   
@@ -53,7 +53,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 **Technology:** PostgreSQL, Microsoft PowerBI.
 
 
-### Profitable Apps
+### Taste of the World Order Analysis
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
 
 **Goal:** .
