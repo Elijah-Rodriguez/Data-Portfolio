@@ -46,7 +46,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Goal:** To get a dynamic overview of Plant Co. performance.
 
-**Description:** This project is focused on creating a dynamic dashboard to analyze global performance for Plant Co. over the 2022-2024 period.  
+**Description:** This project is focused on creating a dynamic dashboard to analyze global performance for Plant Co. over the 2022-2024 period. Plant Co. has 3 seperate tables that range from fact tables to lookup tables as they would like insights over their entire operation. 
 
 **Skills:** Data cleaning, data analysis, data visualization.
 
@@ -56,13 +56,13 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ### Taste of the World Cafe Order Analysis
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Taste%20of%20the%20World%20Analysis)
 
-**Goal:** To analyze performance of a recent menu change impl.
+**Goal:** To analyze performance of a recent menu change.
 
-**Description:** .
+**Description:** The fictional company Taste of the World Cafe has recently updated their menu. The cafe would like to get an overview of their quarterly performance and would like some insights on the performance of their new menu.
 
 **Skills:** Data cleaning, data analysis.
 
-**Tools:** PostgreSQL.
+**Tools:** PostgreSQL, Microsoft Excel.
 
 
 ## Machine Learning Projects
@@ -88,7 +88,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Tools:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Tools:** Python, Pandas, Numpy.
 
 
 ### NBA Rookie of the Year Predictor
