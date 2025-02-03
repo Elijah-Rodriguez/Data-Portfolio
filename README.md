@@ -12,9 +12,9 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
   
   - [Fraud Detection](#fraud-detection)
     
-  - [Plant Co. Sales Dashboard](#sales-dashboard)
+  - [Plant Co. {Performance Dashboard](#plant-co-performance-dashboard)
     
-  - [Taste of the World Cafe Order Analysis](#taste-of-the-world-order-analysis)
+  - [Taste of the World Cafe Order Analysis](#taste-of-the-world-cafe-order-analysis)
     
 - [Machine Learning Projects](#machine-learning-projects)
   
@@ -38,10 +38,10 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, .
+**Tools:** Python, .
 
 
-### Plant Co. Dashboard
+### Plant Co. Performance Dashboard
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Sales%20Dashboard)
 
 **Goal:** To get a dynamic overview of Plant Co. performance.
@@ -50,19 +50,19 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Skills:** Data cleaning, data analysis, data visualization.
 
-**Technology:** PostgreSQL, Microsoft PowerBI.
+**Tools:** PostgreSQL, Microsoft PowerBI.
 
 
-### Taste of the World Order Analysis
+### Taste of the World Cafe Order Analysis
 **Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
 
-**Goal:** .
+**Goal:** To analyze performance of a recent menu change impl.
 
 **Description:** .
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data cleaning, data analysis.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Tools:** PostgreSQL.
 
 
 ## Machine Learning Projects
@@ -76,7 +76,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Tools:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 
 ### NBA Match Predictor
@@ -88,19 +88,19 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Tools:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 
 ### NBA Rookie of the Year Predictor
 **Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Rookie%20of%20the%20Year%20Predictor)
 
-**Goal:** .
+**Goal:** To accurately predict which player will be voted for Rookie of the Year.
 
 **Description:** .
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** webscraping, data cleaning, data analysis, correlation matrices, machine learning, hyperparameter tuning.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Tools:** Selenium, Beautiful Soup, Python, Pandas, Plotly, Matplotlib, XGBoost.
 
 
 ## Contacts
