@@ -54,7 +54,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 
 ### Taste of the World Cafe Order Analysis
-**Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Profitable%20Apps)
+**Code:** [Here](https://github.com/Elijah-Rodriguez/data-analysis/tree/main/Taste%20of%20the%20World%20Analysis)
 
 **Goal:** To analyze performance of a recent menu change impl.
 
