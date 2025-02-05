@@ -70,13 +70,13 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ### ML OPS
 **Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/ML%20OPS)
 
-**Goal:** .
+**Goal:** Building and deploying a location image classifier using Tensorflow, Streamlit, GCP, and other tools.
 
 **Description:** .
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Tools:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Tools:** Python, TensorFlow, Streamlit, Docker, Kubernetes, cloudbuild, GitHub, and Google Cloud.
 
 
 ### NBA Match Predictor
@@ -88,7 +88,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Skills:** Webscraping, data cleaning, data analysis, correlation matrices, machine learning, hyperparameter tuning.
 
-**Tools:** Selenium, Beautiful Soup, Python, Pandas, Plotly, Matplotlib, XGBoost.
+**Tools:** NBA API, Python, Pandas, Plotly, Matplotlib, Scikit-learn, XGBoost.
 
 
 ### NBA Rookie of the Year Predictor
