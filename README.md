@@ -34,11 +34,11 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Goal:** Monitoring how a fraud detection model has been doing over time and figuring out why it's not working as it should using Python.
 
-**Description:** .
+**Description:** London's Poundbank needs help to figure out why their fraud detection models aren't as accurate anymore. Poundbank recommends the nannyml library for monitoring machine learning models, which is also their tool of choice. Some objectives are asked to be followed, including noting periods of alerts, feature correlation, and plotting univariate drift detection distributions.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** data analysis, hypothesis testing, data visualization.
 
-**Tools:** Python, .
+**Tools:** Python.
 
 
 ### Plant Co. Performance Dashboard
@@ -82,13 +82,13 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ### NBA Match Predictor
 **Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/NBA%20Match%20Predictor)
 
-**Goal:** .
+**Goal:** To see how accurate a model can predict the winner of an NBA game before the game starts.
 
 **Description:** .
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Webscraping, data cleaning, data analysis, correlation matrices, machine learning, hyperparameter tuning.
 
-**Tools:** Python, Pandas, Numpy.
+**Tools:** Selenium, Beautiful Soup, Python, Pandas, Plotly, Matplotlib, XGBoost.
 
 
 ### NBA Rookie of the Year Predictor
@@ -96,9 +96,9 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Goal:** To accurately predict which player will be voted for Rookie of the Year.
 
-**Description:** .
+**Description:** My approach to this project was to see how accurate my model can predict the winner by focusing on tuning an XGB Regressor model that predicts voting share.
 
-**Skills:** webscraping, data cleaning, data analysis, correlation matrices, machine learning, hyperparameter tuning.
+**Skills:** Webscraping, data cleaning, data analysis, correlation matrices, machine learning, hyperparameter tuning.
 
 **Tools:** Selenium, Beautiful Soup, Python, Pandas, Plotly, Matplotlib, XGBoost.
 
