@@ -74,9 +74,9 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Description:** .
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data cleaning, data analysis, machine learning, CI/CD, data engineering.
 
-**Tools:** Python, TensorFlow, Streamlit, Docker, Kubernetes, cloudbuild, GitHub, and Google Cloud.
+**Tools:** Python, TensorFlow, Streamlit, Docker, Kubernetes, and Google Cloud.
 
 
 ### NBA Match Predictor
