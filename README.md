@@ -70,13 +70,13 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 ### ML OPS
 **Code:** [Here](https://github.com/Elijah-Rodriguez/machine-learning/tree/main/ML%20OPS)
 
-**Goal:** Building and deploying a location image classifier using Tensorflow, Streamlit, GCP, and other tools.
+**Goal:** Building and deploying a location image classifier using Tensorflow, Streamlit, Azure, and other tools.
 
-**Description:** .
+**Description:** Created a pipeline based on a basic image classification CNN model on a python notebook. This pipeline copies a saved CNN model and an app framework built in Streamlit to a Docker image. This Dokcer image is then placed into an Azure Container Registry to be hosted by an Azure Web App.
 
 **Skills:** Data cleaning, data analysis, machine learning, CI/CD, data engineering.
 
-**Tools:** Python, TensorFlow, Streamlit, Docker, Kubernetes, and Google Cloud.
+**Tools:** Python, TensorFlow, Streamlit, Docker, Azure.
 
 
 ### NBA Match Predictor
@@ -84,11 +84,11 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Goal:** To see how accurate a model can predict the winner of an NBA game before the game starts.
 
-**Description:** .
+**Description:** This project involves scraping data from the NBA API to compile a large dataset of all regular season performances. This dataset is used to train a model that can predict the outcome of a game before a matchup.
 
 **Skills:** Webscraping, data cleaning, data analysis, correlation matrices, machine learning, hyperparameter tuning.
 
-**Tools:** NBA API, Python, Pandas, Plotly, Matplotlib, Scikit-learn, XGBoost.
+**Tools:** NBA API, Python, Pandas, Plotly, Matplotlib, Scikit-learn, XGBoost, Streamlit.
 
 
 ### NBA Rookie of the Year Predictor
