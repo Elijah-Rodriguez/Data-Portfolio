@@ -18,7 +18,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
     
 - [Machine Learning Projects](#machine-learning-projects)
   
-  - [ML OPS](#ml-ops)
+  - [End-to-End MLOps](#ml-ops)
     
   - [NBA Match Predictor](#nba-match-predictor)
     
