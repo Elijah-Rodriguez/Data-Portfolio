@@ -72,7 +72,7 @@ During my time at UCF, I worked to gain strong experience with Python and MySQL,
 
 **Goal:** Building and deploying a location image classifier using Tensorflow, Streamlit, Azure, and other tools.
 
-**Description:** Created a pipeline based on a basic image classification CNN model on a python notebook. This pipeline copies a saved CNN model and an app framework built in Streamlit to a Docker image. This Dokcer image is then placed into an Azure Container Registry to be hosted by an Azure Web App. All monitoring and deployment is handled through GitHub Actions.
+**Description:** Created a pipeline based on a basic image classification CNN model on a python notebook. This pipeline copies a saved CNN model and an app framework built in Streamlit to a Docker image. This Docker image is then placed into an Azure Container Registry and hosted by an Azure Web App. All monitoring and deployment is handled through GitHub Actions.
 
 **Skills:** Data cleaning, data analysis, machine learning, CI/CD, data engineering.
 
